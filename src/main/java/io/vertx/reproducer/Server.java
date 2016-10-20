@@ -7,7 +7,7 @@ import io.vertx.ext.web.RoutingContext;
 import io.vertx.ext.web.handler.BodyHandler;
 
 /**
- * Created by bruce.henderson on 20/10/2016.
+ * A fairly basic http server.
  */
 public class Server extends AbstractVerticle {
 

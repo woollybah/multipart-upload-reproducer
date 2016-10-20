@@ -20,7 +20,7 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
- * Created by bruce.henderson on 20/10/2016.
+ * A test to upload multipart form with three attachments.
  */
 public class MultipartUploadTest {
 
